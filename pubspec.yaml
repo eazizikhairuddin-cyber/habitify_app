@@ -26,6 +26,8 @@ dependencies:
   fl_chart: ^0.68.0
   uuid: ^4.4.0
   json_annotation: ^4.9.0
+  google_mobile_ads: ^5.2.0
+  shared_preferences: ^2.3.2
 
 dev_dependencies:
   flutter_test:
